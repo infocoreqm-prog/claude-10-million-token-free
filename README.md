@@ -4,7 +4,7 @@ Claude 10 Million Tokens
 
 Get access to 10,000,000 Claude API tokens through CoreQM.
 
-🌐 Website: coreqm.com
+🌐 Website: www.coreqm.com
 
 🚀 Package Details
 10,000,000 Tokens
